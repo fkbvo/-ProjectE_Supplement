@@ -1,0 +1,21 @@
+{
+  "comment": "Seed EMC values for Mekanism Extras base materials via common tags. Tiered machines derive from crafting once alloys and control circuits have values.",
+  "values": {
+    "before": [
+      { "type": "projecte:item", "emc_value": 2048, "tag": "c:ingots/naquadah" },
+      { "type": "projecte:item", "emc_value": 2048, "tag": "c:ores/naquadah" },
+      { "type": "projecte:item", "emc_value": 2048, "tag": "c:raw_materials/naquadah" },
+      { "type": "projecte:item", "emc_value": 227, "tag": "c:nuggets/naquadah" },
+      { "type": "projecte:item", "emc_value": 1024, "tag": "c:dusts/naquadah" },
+      { "type": "projecte:item", "emc_value": 2048, "tag": "c:dusts/radiance" },
+      { "type": "projecte:item", "emc_value": 4096, "tag": "c:alloys/absolute" },
+      { "type": "projecte:item", "emc_value": 16384, "tag": "c:alloys/cosmic" },
+      { "type": "projecte:item", "emc_value": 65536, "tag": "c:alloys/infinite" },
+      { "type": "projecte:item", "emc_value": 262144, "tag": "c:alloys/supreme" },
+      { "type": "projecte:item", "emc_value": 8192, "tag": "c:circuits/absolute" },
+      { "type": "projecte:item", "emc_value": 32768, "tag": "c:circuits/cosmic" },
+      { "type": "projecte:item", "emc_value": 131072, "tag": "c:circuits/infinite" },
+      { "type": "projecte:item", "emc_value": 524288, "tag": "c:circuits/supreme" }
+    ]
+  }
+}

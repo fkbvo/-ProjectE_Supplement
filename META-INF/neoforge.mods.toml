@@ -1,0 +1,89 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "pec_supplement"
+version = "1.0.0"
+displayName = "等价兼容：补充"
+authors = "mekpei"
+description = "ProjectE-Integration supplement: EMC mapping for Mekanism machines (crusher, enrichment, smelter, combiner, sawmill) and AE2 Lightning Tech machines (firmament conversion, lightning assembly, lightning simulation, overload processing), plus seed EMC values for both mods' base materials."
+
+[[dependencies.pec_supplement]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.pec_supplement]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.206,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.pec_supplement]]
+modId = "projecte"
+type = "required"
+versionRange = "[PE1.0.1,)"
+
+[[dependencies.pec_supplement]]
+modId = "projecteintegration"
+type = "required"
+versionRange = "[8.3.1,)"
+
+[[dependencies.pec_supplement]]
+modId = "mekanism"
+type = "optional"
+versionRange = "[10.7.0,)"
+
+[[dependencies.pec_supplement]]
+modId = "ae2lt"
+type = "optional"
+versionRange = "[1.1.0,)"
+
+[[dependencies.pec_supplement]]
+modId = "ae2"
+type = "optional"
+versionRange = "[0,)"
+
+[[dependencies.pec_supplement]]
+modId = "bigreactors"
+type = "optional"
+versionRange = "[0,)"
+
+[[dependencies.pec_supplement]]
+modId = "zerocore"
+type = "optional"
+versionRange = "[0,)"
+
+[[dependencies.pec_supplement]]
+modId = "ae2cs"
+type = "optional"
+versionRange = "[0,)"
+
+[[dependencies.pec_supplement]]
+modId = "ae2omnicells"
+type = "optional"
+versionRange = "[0,)"
+
+[[dependencies.pec_supplement]]
+modId = "data_energistics"
+type = "optional"
+versionRange = "[0,)"
+
+[[dependencies.pec_supplement]]
+modId = "mekanism_extras"
+type = "optional"
+versionRange = "[0,)"
+
+[[dependencies.pec_supplement]]
+modId = "mekanismsun"
+type = "optional"
+versionRange = "[0,)"
+
+[[dependencies.pec_supplement]]
+modId = "neoecoae"
+type = "optional"
+versionRange = "[0,)"

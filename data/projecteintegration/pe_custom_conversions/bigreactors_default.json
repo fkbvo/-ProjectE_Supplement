@@ -1,0 +1,107 @@
+{
+  "comment": "Seed EMC values for Extreme Reactors base materials and fluids. Leaf items only; alloy ingots (blutonium, ludicrite, ridiculite, inanite, insanite) are derived dynamically by the reprocessor recipe mapper. cyanite=1024 and uranium=4096 come from ProjectE defaults. Fluid values are per bucket (1000 mB).",
+  "values": {
+    "before": [
+      {
+        "type": "projecte:item",
+        "emc_value": 1024,
+        "tag": "c:ores/yellorite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 1024,
+        "tag": "c:raw_materials/yellorium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 1024,
+        "tag": "c:ingots/yellorium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 128,
+        "tag": "c:ingots/graphite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 2048,
+        "tag": "c:ingots/magentite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8192,
+        "tag": "c:ingots/plutonium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "tag": "c:ores/anglesite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 2048,
+        "tag": "c:ores/benitoite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "id": "bigreactors:anglesite_crystal"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 2048,
+        "id": "bigreactors:benitoite_crystal"
+      },
+      {
+        "type": "projecte:fluid",
+        "emc_value": 1024,
+        "id": "bigreactors:yellorium"
+      },
+      {
+        "type": "projecte:fluid",
+        "emc_value": 1024,
+        "id": "bigreactors:cyanite"
+      },
+      {
+        "type": "projecte:fluid",
+        "emc_value": 2048,
+        "id": "bigreactors:blutonium"
+      },
+      {
+        "type": "projecte:fluid",
+        "emc_value": 2048,
+        "id": "bigreactors:magentite"
+      },
+      {
+        "type": "projecte:fluid",
+        "emc_value": 8192,
+        "id": "bigreactors:rossinite"
+      },
+      {
+        "type": "projecte:fluid",
+        "emc_value": 512,
+        "id": "bigreactors:cryomisi"
+      },
+      {
+        "type": "projecte:fluid",
+        "emc_value": 1024,
+        "id": "bigreactors:redfrigium"
+      },
+      {
+        "type": "projecte:fluid",
+        "emc_value": 512,
+        "id": "bigreactors:tangerium"
+      },
+      {
+        "type": "projecte:fluid",
+        "emc_value": 512,
+        "id": "bigreactors:verderium"
+      },
+      {
+        "type": "projecte:fluid",
+        "emc_value": 1,
+        "id": "bigreactors:steam"
+      }
+    ]
+  }
+}

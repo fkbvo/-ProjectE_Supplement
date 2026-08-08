@@ -1,0 +1,37 @@
+{
+  "comment": "Seed EMC values for AE2 CS base materials. Purified crystals and seeds are leaf materials; machines and derived items resolve via crafting and the mapped crystal pulverizer/aggregator/etcher recipes.",
+  "values": {
+    "before": [
+      { "type": "projecte:item", "emc_value": 256, "id": "ae2cs:purified_certus_quartz_crystal" },
+      { "type": "projecte:item", "emc_value": 512, "id": "ae2cs:purified_fluix_crystal" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "ae2cs:purified_resonating_crystal" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "ae2cs:purified_link_crystal" },
+      { "type": "projecte:item", "emc_value": 4096, "id": "ae2cs:purified_quantum_crystal" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "ae2cs:purified_ender_quartz" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "ae2cs:purified_energized_certus_quartz_crystal" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "ae2cs:purified_energized_fluix_crystal" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "ae2cs:purified_meteor_crystal" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "ae2cs:purified_redstone_crystal" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "ae2cs:purified_entro_crystal" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "ae2cs:purified_nether_quartz_crystal" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "ae2cs:purified_irradiated_crystal" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "ae2cs:purified_data_crystal" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "ae2cs:purified_ember_crystal" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "ae2cs:purified_overload_crystal" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "ae2cs:purified_rose_quartz" },
+      { "type": "projecte:item", "emc_value": 8192, "id": "ae2cs:link_crystal" },
+      { "type": "projecte:item", "emc_value": 16384, "id": "ae2cs:quantum_crystal" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "ae2cs:link_crystal_dust" },
+      { "type": "projecte:item", "emc_value": 4096, "id": "ae2cs:quantum_crystal_dust" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "ae2cs:resonating_crystal_dust" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "ae2cs:redstone_crystal_dust" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "ae2cs:irradiated_crystal_dust" },
+      { "type": "projecte:item", "emc_value": 128, "id": "ae2cs:nether_quartz_dust" },
+      { "type": "projecte:item", "emc_value": 512, "id": "ae2cs:simple_processor" },
+      { "type": "projecte:item", "emc_value": 4096, "id": "ae2cs:resonating_processor" },
+      { "type": "projecte:item", "emc_value": 32, "id": "ae2cs:wooden_gear" },
+      { "type": "projecte:item", "emc_value": 8, "id": "ae2cs:flour" },
+      { "type": "projecte:item", "emc_value": 256, "id": "ae2cs:resonating_memory_card" }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+# 构建依赖 jar（不应上传）
+*.jar
+
+# 构建输出
+**/build/
+**/output/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,21 @@
+{
+  "comment": "Seed EMC values for Data Energistics base materials and fluids. data_corrosion_liquid and ender fluids are seeded so the data reassembler recipes can resolve.",
+  "values": {
+    "before": [
+      { "type": "projecte:item", "emc_value": 2048, "id": "data_energistics:data_crystal" },
+      { "type": "projecte:item", "emc_value": 512, "id": "data_energistics:data_dust" },
+      { "type": "projecte:item", "emc_value": 4096, "id": "data_energistics:digisidian_memorize_ingot" },
+      { "type": "projecte:item", "emc_value": 4096, "id": "data_energistics:data_processor" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "data_energistics:data_circuit_board" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "data_energistics:data_framework" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "data_energistics:data_carrier" },
+      { "type": "projecte:item", "emc_value": 16384, "id": "data_energistics:time_core" },
+      { "type": "projecte:item", "emc_value": 512, "id": "data_energistics:solidified_obsidian" },
+      { "type": "projecte:item", "emc_value": 64, "id": "data_energistics:obsidian_dust" },
+      { "type": "projecte:item", "emc_value": 4096, "id": "data_energistics:data_inscriber_template" },
+      { "type": "projecte:item", "emc_value": 4096, "id": "data_energistics:data_capture_ball" },
+      { "type": "projecte:fluid", "emc_value": 512, "id": "data_energistics:data_corrosion_liquid" },
+      { "type": "projecte:fluid", "emc_value": 1024, "id": "data_energistics:ender" }
+    ]
+  }
+}

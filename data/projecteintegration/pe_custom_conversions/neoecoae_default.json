@@ -1,0 +1,25 @@
+{
+  "comment": "Seed EMC values for Neo Eco AE base materials. System/cell items derive from crafting and the mapped integrated working station recipes once leaf materials have values.",
+  "values": {
+    "before": [
+      { "type": "projecte:item", "emc_value": 256, "id": "neoecoae:aluminum_ingot" },
+      { "type": "projecte:item", "emc_value": 128, "id": "neoecoae:aluminum_dust" },
+      { "type": "projecte:item", "emc_value": 512, "id": "neoecoae:tungsten_ingot" },
+      { "type": "projecte:item", "emc_value": 256, "id": "neoecoae:tungsten_dust" },
+      { "type": "projecte:item", "emc_value": 768, "id": "neoecoae:aluminum_alloy_ingot" },
+      { "type": "projecte:item", "emc_value": 384, "id": "neoecoae:aluminum_alloy_dust" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "neoecoae:black_tungsten_alloy_ingot" },
+      { "type": "projecte:item", "emc_value": 512, "id": "neoecoae:black_tungsten_alloy_dust" },
+      { "type": "projecte:item", "emc_value": 8192, "id": "neoecoae:energized_superconductive_ingot" },
+      { "type": "projecte:item", "emc_value": 16384, "id": "neoecoae:superconducting_processor" },
+      { "type": "projecte:item", "emc_value": 4096, "id": "neoecoae:crystal_ingot" },
+      { "type": "projecte:item", "emc_value": 16384, "id": "neoecoae:crystal_matrix" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "neoecoae:energized_crystal" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "neoecoae:energized_crystal_dust" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "neoecoae:energized_fluix_crystal" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "neoecoae:energized_fluix_crystal_dust" },
+      { "type": "projecte:item", "emc_value": 4096, "id": "neoecoae:cryotheum_crystal" },
+      { "type": "projecte:item", "emc_value": 8192, "id": "neoecoae:eco_infinite_cell_component" }
+    ]
+  }
+}

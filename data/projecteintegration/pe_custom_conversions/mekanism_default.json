@@ -1,0 +1,372 @@
+{
+  "comment": "Seed EMC values for Mekanism base materials. Values are calibrated against ProjectE defaults (iron=256, gold=2048, diamond=8192, obsidian=64).",
+  "values": {
+    "before": [
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "tag": "c:ingots/osmium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 256,
+        "tag": "c:ingots/tin"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "tag": "c:ingots/lead"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "tag": "c:ingots/uranium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 768,
+        "tag": "c:ingots/bronze"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "tag": "c:ingots/refined_obsidian"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 1024,
+        "tag": "c:ingots/refined_glowstone"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "tag": "c:ingots/steel"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "tag": "c:ores/osmium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 256,
+        "tag": "c:ores/tin"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "tag": "c:ores/lead"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "tag": "c:ores/uranium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "tag": "c:ores/fluorite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "tag": "c:gems/fluorite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 64,
+        "tag": "c:dusts/obsidian"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 64,
+        "tag": "c:dusts/refined_obsidian"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8192,
+        "tag": "c:dusts/diamond"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16384,
+        "tag": "c:dusts/emerald"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 256,
+        "tag": "c:dusts/iron"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 2048,
+        "tag": "c:dusts/gold"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 128,
+        "tag": "c:dusts/copper"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 128,
+        "tag": "c:dusts/tin"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 256,
+        "tag": "c:dusts/lead"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 256,
+        "tag": "c:dusts/osmium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 2048,
+        "tag": "c:dusts/uranium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 256,
+        "tag": "c:dusts/steel"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 384,
+        "tag": "c:dusts/bronze"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 256,
+        "tag": "c:dusts/quartz"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 128,
+        "tag": "c:dusts/coal"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 64,
+        "tag": "c:dusts/charcoal"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16,
+        "tag": "c:dusts/salt"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 32,
+        "tag": "c:dusts/sulfur"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 256,
+        "tag": "c:dusts/fluorite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "tag": "c:dusts/netherite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 256,
+        "tag": "c:dusts/lithium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4,
+        "tag": "c:dusts/wood"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "tag": "c:alloys/advanced"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 2048,
+        "tag": "c:alloys/elite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8192,
+        "tag": "c:alloys/ultimate"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "tag": "c:circuits/basic"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 2048,
+        "tag": "c:circuits/advanced"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8192,
+        "tag": "c:circuits/elite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 32768,
+        "tag": "c:circuits/ultimate"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 131072,
+        "tag": "c:pellets/antimatter"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 65536,
+        "tag": "c:pellets/plutonium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 32768,
+        "tag": "c:pellets/polonium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "id": "mekanism:raw_osmium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 256,
+        "id": "mekanism:raw_tin"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "id": "mekanism:raw_lead"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "id": "mekanism:raw_uranium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 128,
+        "id": "mekanism:enriched_carbon"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 128,
+        "id": "mekanism:enriched_tin"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 128,
+        "id": "mekanism:enriched_iron"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 1024,
+        "id": "mekanism:enriched_gold"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 64,
+        "id": "mekanism:enriched_refined_obsidian"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "id": "mekanism:enriched_diamond"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 32,
+        "id": "mekanism:enriched_redstone"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8,
+        "id": "mekanism:hdpe_pellet"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8,
+        "id": "mekanism:hdpe_rod"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8,
+        "id": "mekanism:hdpe_stick"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16,
+        "id": "mekanism:hdpe_sheet"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8,
+        "id": "mekanism:salt"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4,
+        "id": "mekanism:sawdust"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4,
+        "id": "mekanism:substrate"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8,
+        "id": "mekanism:dye_base"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16,
+        "id": "mekanism:bio_fuel"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 144,
+        "id": "mekanism:block_bio_fuel"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "id": "mekanism:steel_casing"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "id": "mekanism:electrolytic_core"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "id": "mekanism:supercharged_coil"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8192,
+        "id": "mekanism:teleportation_core"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "id": "mekanism:yellow_cake_uranium"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "id": "mekanism:reprocessed_fissile_fragment"
+      }
+    ]
+  }
+}

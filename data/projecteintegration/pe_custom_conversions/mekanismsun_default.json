@@ -1,0 +1,32 @@
+{
+  "comment": "Seed EMC values for Mekanism Sun base materials. supernova_alloy and supernova_control_circuit are made via chemical-based recipes (skipped), so they are seeded as leaves. Tiered machines derive from crafting.",
+  "values": {
+    "before": [
+      { "type": "projecte:item", "emc_value": 2048, "id": "mekanismsun:naquadah_ore" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "mekanismsun:deepslate_naquadah_ore" },
+      { "type": "projecte:item", "emc_value": 4096, "id": "mekanismsun:end_naquadah_ore" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "mekanismsun:raw_naquadah" },
+      { "type": "projecte:item", "emc_value": 2048, "id": "mekanismsun:ingot_naquadah" },
+      { "type": "projecte:item", "emc_value": 227, "id": "mekanismsun:nugget_naquadah" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "mekanismsun:dust_naquadah" },
+      { "type": "projecte:item", "emc_value": 512, "id": "mekanismsun:dirty_dust_naquadah" },
+      { "type": "projecte:item", "emc_value": 512, "id": "mekanismsun:silver_ore" },
+      { "type": "projecte:item", "emc_value": 512, "id": "mekanismsun:deepslate_silver_ore" },
+      { "type": "projecte:item", "emc_value": 512, "id": "mekanismsun:raw_silver" },
+      { "type": "projecte:item", "emc_value": 512, "id": "mekanismsun:silver_ingot" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "mekanismsun:electrum_ingot" },
+      { "type": "projecte:item", "emc_value": 512, "id": "mekanismsun:electrum_dust" },
+      { "type": "projecte:item", "emc_value": 4096, "id": "mekanismsun:alloy_radiance" },
+      { "type": "projecte:item", "emc_value": 8192, "id": "mekanismsun:alloy_shining" },
+      { "type": "projecte:item", "emc_value": 16384, "id": "mekanismsun:alloy_spectrum" },
+      { "type": "projecte:item", "emc_value": 32768, "id": "mekanismsun:alloy_thermonuclear" },
+      { "type": "projecte:item", "emc_value": 65536, "id": "mekanismsun:supernova_alloy" },
+      { "type": "projecte:item", "emc_value": 131072, "id": "mekanismsun:supernova_control_circuit" },
+      { "type": "projecte:item", "emc_value": 8192, "id": "mekanismsun:absolute_control_circuit" },
+      { "type": "projecte:item", "emc_value": 32768, "id": "mekanismsun:cosmic_control_circuit" },
+      { "type": "projecte:item", "emc_value": 16384, "id": "mekanismsun:naquadah_reactor_casing" },
+      { "type": "projecte:item", "emc_value": 32768, "id": "mekanismsun:naquadah_reactor_controller" },
+      { "type": "projecte:item", "emc_value": 4096, "id": "mekanismsun:naquadah_hohlraum" }
+    ]
+  }
+}

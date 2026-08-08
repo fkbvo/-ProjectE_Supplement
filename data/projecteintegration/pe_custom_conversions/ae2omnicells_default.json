@@ -1,0 +1,16 @@
+{
+  "comment": "Seed EMC values for AE2 OmniCells base materials. Cell components and housings derive from AE2 inscriber/crafting once leaf materials have values.",
+  "values": {
+    "before": [
+      { "type": "projecte:item", "emc_value": 4096, "id": "ae2omnicells:ender_ingot" },
+      { "type": "projecte:item", "emc_value": 455, "id": "ae2omnicells:ender_nugget" },
+      { "type": "projecte:item", "emc_value": 8192, "id": "ae2omnicells:charged_ender_ingot" },
+      { "type": "projecte:item", "emc_value": 8192, "id": "ae2omnicells:omni_link_processor" },
+      { "type": "projecte:item", "emc_value": 16384, "id": "ae2omnicells:complex_link_processor" },
+      { "type": "projecte:item", "emc_value": 32768, "id": "ae2omnicells:multidimensional_expansion_processor" },
+      { "type": "projecte:item", "emc_value": 65536, "id": "ae2omnicells:spent_nuclear_waste_singularity" },
+      { "type": "projecte:item", "emc_value": 8192, "id": "ae2omnicells:spent_nuclear_waste_component" },
+      { "type": "projecte:item", "emc_value": 1024, "id": "ae2omnicells:type_fuzzy_card" }
+    ]
+  }
+}
